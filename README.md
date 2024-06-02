@@ -2,7 +2,7 @@
 ==========================
 
 <a href="https://github.com/AzizMtg">
-<img align="left" width="100" height="100" src="![Uploading image.png…]()
+<img align="left" width="100" height="100" src="![image](https://github.com/AzizMtg/AzizMtg/assets/131389390/623b3b47-b23b-4163-b8f1-fd9673503688)
 "></a>
 
 **Hi there, I'm Aziz! 👋**
