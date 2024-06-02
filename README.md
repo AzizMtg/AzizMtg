@@ -2,7 +2,7 @@
 ==========================
 
 <a href="https://github.com/AzizMtg">
-<img align="left" width="100" height="100" src="![image](https://github.com/AzizMtg/AzizMtg/assets/131389390/623b3b47-b23b-4163-b8f1-fd9673503688)
+<img align="left" width="100" height="100" src="[![image](https://github.com/AzizMtg/AzizMtg/assets/131389390/623b3b47-b23b-4163-b8f1-fd9673503688)](https://ctl.s6img.com/society6/img/CMQX6jotHmPIE1p0NOeaz4NYgOM/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/4b9d50fb05e04c80b9ff6146b80e45e7/~~/albert-einstein-with-3d-glasses-prints.jpg?attempt=0)
 "></a>
 
 **Hi there, I'm Aziz! 👋**
