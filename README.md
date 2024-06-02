@@ -61,9 +61,9 @@ I can code with my eyes closed (just kidding! but wouldn't that be cool?)
 **Stats**
 --------
 
-[![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMaatoug&count_private=true&show_icons=true&theme=radical)](https://github.com/AzizMaatoug)
+[![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMtg&count_private=true&show_icons=true&theme=radical)](https://github.com/AzizMtg)
 
 **Top Languages**
 ----------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMaatoug&layout=compact&theme=radical)](https://github.com/AzizMaatoug)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMtg&layout=compact&theme=radical)](https://github.com/AzizMtg)
