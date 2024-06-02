@@ -2,8 +2,7 @@
 ==========================
 
 <a href="https://github.com/AzizMtg">
-  <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/your-github-username?v=4">
-</a>
+<img align="left" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Albert_Einstein_%28Nobel%29.jpg/440px-Albert_Einstein_%28Nobel%29.jpg"></a>
 
 **Hi there, I'm Aziz! 👋**
 
