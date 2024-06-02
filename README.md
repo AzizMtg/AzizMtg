@@ -1,64 +1,60 @@
-**Aziz's GitHub Profile**
-==========================
+<h2 align="center">Hi there, I'm Aziz! 👋<br><br>👨‍💻 Computer Science Student | AI Enthusiast | Web & Mobile Developer | Graphic Designer | Game Developer | Freelancer</h2>
 
-<a href="https://github.com/AzizMtg">
-<img align="left" width="100" height="100" src="[![image](https://github.com/AzizMtg/AzizMtg/assets/131389390/623b3b47-b23b-4163-b8f1-fd9673503688)](https://ctl.s6img.com/society6/img/CMQX6jotHmPIE1p0NOeaz4NYgOM/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/4b9d50fb05e04c80b9ff6146b80e45e7/~~/albert-einstein-with-3d-glasses-prints.jpg?attempt=0)
-"></a>
+###
 
-**Hi there, I'm Aziz! 👋**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AzizMtg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzizMtg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-👨‍💻 Computer Science Student | AI Enthusiast | Web & Mobile Developer | Graphic Designer | Game Developer | Freelancer
+###
 
-**About Me**
--------------
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFzNDRweXhjcGE2aDJ2d3dwcDZ6OG1tMHU2ZTVvM2lvY2k0cDU5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GLC1Z9y2ZLKomEYdRV/giphy.webp"  />
 
-I'm a passionate computer science student driven by a thirst for knowledge and innovation. With a keen interest in AI, I'm always exploring new ideas and technologies. Experienced in game development, web/mobile apps, and graphic design, I blend creativity with technical prowess. Let's connect and discuss our shared interests!
+###
 
-**What I'm Up To**
------------------
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
+</div>
 
-### 🔭 Currently Working On
+###
 
-* Mastering the art of AI
-* Building cool web apps
-* Designing awesome graphics
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCsuQ14oVdSj2ZAsWrXlbTHw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamedazizmaatoug/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mohamedaziz.maatoug@esprit.tn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-### 🌱 Currently Learning
+###
 
-* Advanced AI techniques
-* Next-level web development
-* Cutting-edge graphic design tools
+<br clear="both">
 
-### 👯 Looking to Collaborate On
+<img src="https://raw.githubusercontent.com/AzizMtg/AzizMtg/output/snake.svg" alt="Snake animation" />
 
-* Open source projects
-* Innovative AI projects
-* Fun game development projects
-
-**Skills**
----------
-
-* Languages: C++, C, PHP, HTML, JavaScript, CSS, Python
-* Frameworks & Libraries: Flask, Figma, Photoshop, Unity, Laravel, Flutter
-
-**Get in Touch**
---------------
-
-Feel free to reach out to me via email: [mohamedaziz.maatoug@esprit.tn](mailto:mohamedaziz.maatoug@esprit.tn)
-
-**Fun Fact**
-------------
-
-I can code with my eyes closed (just kidding! but wouldn't that be cool?)
-
-![Coding with eyes closed](https://media.giphy.com/media/LmNwrBhejkK9E/giphy.gif)
-
-**Stats**
---------
-
-[![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMtg&count_private=true&show_icons=true&theme=radical)](https://github.com/AzizMtg)
-
-**Top Languages**
-----------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMtg&layout=compact&theme=radical)](https://github.com/AzizMtg)
+###
