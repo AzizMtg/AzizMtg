@@ -1,7 +1,7 @@
 **Aziz's GitHub Profile**
 ==========================
 
-<a href="https://github.com/AzizMaatoug">
+<a href="https://github.com/AzizMtg">
   <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/your-github-username?v=4">
 </a>
 
@@ -45,11 +45,6 @@ I'm a passionate computer science student driven by a thirst for knowledge and i
 --------------
 
 Feel free to reach out to me via email: [mohamedaziz.maatoug@esprit.tn](mailto:mohamedaziz.maatoug@esprit.tn)
-
-**Pronouns**
-------------
-
-He/Him
 
 **Fun Fact**
 ------------
