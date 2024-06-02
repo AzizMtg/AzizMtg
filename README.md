@@ -24,6 +24,11 @@ I'm a passionate computer science student driven by a thirst for knowledge and i
 - Innovative AI projects
 - Fun game development projects
 
+## ⚡ Skills
+
+- Languages: C++, C, PHP, HTML, JavaScript, CSS, Python
+- Frameworks & Libraries: Flask, Figma, Photoshop, Unity, Laravel, Flutter
+
 ## 📫 How to reach me
 
 Feel free to reach out to me via email: mohamedaziz.maatoug@esprit.tn
@@ -35,4 +40,3 @@ He/Him
 ## ⚡ Fun fact
 
 I can code with my eyes closed (just kidding! but wouldn't that be cool?)
-
