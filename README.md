@@ -3,11 +3,16 @@
 ###
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzizMtg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=AzizMtg)](https://git.io/streak-stats)
+  
+  <br><br>
+  
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=AzizMtg&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  </a>
 
 </div>
-
 
 ###
 
