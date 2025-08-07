@@ -4,7 +4,6 @@
   because the most personal is the most creative.<br>
   <em>– Bong Joon-ho</em>
 </h2>
-###
 
 <div align="center">
   
