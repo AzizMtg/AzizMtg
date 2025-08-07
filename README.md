@@ -1,5 +1,9 @@
-<h2 align="center">Hi there, I'm Aziz! 👋<br><br>The most personal is the most creative</h2>
-
+<h2 align="center">
+  Hey, I’m Aziz.<br><br>
+  I build things that matter to me —<br>
+  because the most personal is the most creative.<br>
+  <em>– Bong Joon-ho</em>
+</h2>
 ###
 
 <div align="center">
