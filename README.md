@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Aziz! 👋<br><br>👨‍💻 Computer Science Student | AI Enthusiast | Web & Mobile Developer | Graphic Designer | Game Developer | Freelancer</h2>
+<h2 align="center">Hi there, I'm Aziz! 👋<br><br>The most personal is the most creative</h2>
 
 ###
 
