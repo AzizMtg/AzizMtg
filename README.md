@@ -6,16 +6,24 @@
 </h2>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzizMtg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AzizMtg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
   <br><br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=AzizMtg&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  </a>
+
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <img src="https://github.com/user-attachments/assets/373fe2a5-3a9e-44e9-906b-f9263bac3d42" height="150" alt="Angel of Darkness GIF" />
+    
+   <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=AzizMtg&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
+    </a>
+    
+   <img src="https://github.com/user-attachments/assets/c96b62a3-c956-4c23-9903-990c4559c3b5" height="150" alt="Kyo Flame GIF" />
+  </div>
 
 </div>
+
+
 
 ###
 
