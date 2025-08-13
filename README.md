@@ -1,7 +1,7 @@
 <h2 align="center">
   Hey, I’m Aziz.<br><br>
-  I build things that matter to me —<br>
-  because the most personal is the most creative.<br>
+  The most personal  —<br>
+  is always the most creative.<br>
   <em>– Bong Joon-ho</em>
 </h2>
 
