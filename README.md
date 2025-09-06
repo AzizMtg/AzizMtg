@@ -1,5 +1,11 @@
 ![ezgif-5aec7f1898a465](https://github.com/user-attachments/assets/43a9c9e4-be1b-4544-b041-68015060d64f)
 
+<p align="center">
+    <a href="https://github.com/AzizMtg">
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,ts,html,css,tensorflow,pytorch,sklearn,opencv,unity,unreal,blender,docker,jupyter,nvidia" />
+  </a>
+</p>
+
 
 <div align="center">
 
