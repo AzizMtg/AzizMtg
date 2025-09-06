@@ -1,9 +1,5 @@
-<h2 align="center">
-  Hey, I’m Aziz.<br><br>
-  The most personal  —<br>
-  is always the most creative.<br>
-  <em>– Bong Joon-ho</em>
-</h2>
+![ezgif-291a19c0d507bc](https://github.com/user-attachments/assets/44957aca-74da-463d-b99b-ed0e9dbd3239)
+
 
 <div align="center">
 
